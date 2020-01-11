@@ -1,0 +1,33 @@
+routingupd algorithm consid interior routingupd protocol
+router involv common manag manag dictat routingupd
+protocol rule assign perlink cost distancevector link state
+method perlink cost plai essenti role minim cost assur
+rout loop present stabl network
+problem exterior rout choos rout pass independ
+organ diagram suppos b c d manag independ
+b c isp d destin
+organ isp rout destin d   b c   choos
+want interior routingupd protocol choos path d face
+pure technic problem b distancevector c speak linkstat lsp
+messag b measur path cost hopcount metric c assign cost base
+bandwidth congest pecuniari consider
+mix unrel metric isn t necessarili useless requir shortestpathisloopfre
+result mention end link agre cost assign link
+applesandorang comparison metric complet undermin intend
+metric influenc select link carri traffic share linkcost inform
+common administr polici set cost practic term make sens
+face larger issu reach d reli traffic carri outsid
+b c outsid inclin offer servic form compens
+monetari reciproc exchang reach understand b matter traffic
+carriag traffic rout c rout lower technic cost
+pai b expect b pai c c expect c
+border gatewai protocol bgp assign job handl exterior rout handl
+exchang rout inform neighbor independ organ current version
+bgp document rfc
+bgp s primari goal provid support call rout polici choos
+rout base manageri administr input address  bgp filter rout
+polici rout polici policybas rout  rout
+attribut packet destin address rout differ
+site  polici  packet attribut destin account bgp
+site s polici choos rout destin appli traffic destin take
+singl rout

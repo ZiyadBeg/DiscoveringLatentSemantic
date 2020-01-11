@@ -1,0 +1,69 @@
+ipv header inform
+destin sourc address
+indic ipv versu ipv
+time live ttl prevent infinit rout loop
+field indic packet tcp v udp
+field support fragment reassembl
+ipv header basic ipv protocol oper origin defin rfc  minor
+occur document rfc  ds field
+defin rfc  ecn bit propos rfc
+version field ipv number   ihl field repres total ipv header length
+bit word ipv header  word long base header take word
+ipv option consist ten word ipv packet packetcaptur tool
+displai packet hex byte x
+differenti servic ds field differenti servic suit preferenti
+handl design packet involv voip realtim protocol explicit
+congest notif bit router experienc congest mark packet indic
+sender transmiss rate reduc address  explicit
+congest notif ecn field replac bit type servic field
+total length field present ipv packet smaller minimum lan packet
+size exercis  larger maximum ipv packet fragment
+lan packet ipv packet length word infer lanlevel packet size
+total length field  bit maximum ipv packet size  byte
+larg fragment avoid ipv  jumbogram
+hopbyhop option header
+word header devot fragment discuss timetol ttl field decrement  router reach  packet discard
+typic initi  larger total number hop path case
+work ttl field prevent rout loop   problem occur
+consum resourc indefinit ip routingt updat protocol
+minim risk rout loop elimin comparison ethernet
+header ttl field ethernet disallow cycl underli topolog
+protocol field identifi content packet bodi common
+valu
+icmp packet  internet control messag protocol
+encapsul ipv packet  ipinip encapsul
+tcp packet
+udp packet
+encapsul ipv packet  ipv connect tunnel
+encapsul secur payload  ipsec
+list assign protocol number maintain iana
+header checksum field  internet checksum  appli header bodi
+purpos discard packet corrupt header ttl decrement
+router updat header checksum  algebra  ad  correct
+place compens hard simpli resum  halfword averag header header
+checksum updat ipv packet header rewritten nat router
+sourc destin address field ipv address
+updat nat firewal
+sourceaddress field suppos sender s ipv address isp check traffic
+send sourc address match custom call rfc
+result ip spoof   send ip packet fake sourc address   straightforward
+exampl  isn spoof syn flood  tcp connect establish
+ipaddress spoof facilit alltoocommon iplay denialofservic attack server
+flood huge volum traffic reduc bandwidth legitim traffic trickl
+flood traffic typic origin larg number compromis machin spoof
+lengthi list sourc block spoof difficult
+ipv option record rout option router insert ipv address
+ipv header option area ten word space
+record longer rout  tracerout time exceed timestamp option
+relat intermedi router request mark packet address local timestamp
+save space option request timestamp room xaddresstimestampi pair
+address prespecifi sender includ ipv address
+router fill timestamp
+option deprec secur risk support sourc rout sender insert
+ipv header option area list ipv address packet rout pass
+ipv address turn strict sourc rout ipv address repres adjac
+neighbor router ipv address list loos sourc rout
+list address repres adjac neighbor ordinari ipv rout
+list ipv address form essenti secur reason
+packet sourcerout rout atleastsomewhat trust zone
+internet backbon

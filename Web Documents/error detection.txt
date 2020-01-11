@@ -1,0 +1,64 @@
+basic strategi packet error detect add extra bit   formal errordetect
+code   receiv determin packet corrupt transit corrupt packet
+discard receiv higher layer distinguish lost packet
+receiv packet lost due bit error occur frequent packet lost due queue
+overflow essenti data receiv accur
+intermitt packet error gener fall categori lowfrequ bit error due thing
+cosmic rai interfer error typic gener nearbi electr equip error
+type gener occur burst multipl bad bit packet occasion malfunct network
+devic introduc bursti error wellth simplest errordetect mechan singl pariti bit catch onebit error
+straightforward gener n bit nbit error code catch
+nbit error exercis
+socal internet checksum ip tcp udp form take onescompl sum
+bit word messag onescompl altern repres sign integ
+binari add posit integ sum overflow hardwar word size
+onescompl nowunivers twoscompl ident form onescompl sum
+bit word b ordinari twoscompl sum ab overflow
+bit add back loword bit word size  bit onescompl sum
+overflow suppos onescompl sum
+exact  sum  leftmost  overflow bit past bit wordsiz
+overflow add bit back
+bit onescompl numer represent form   straightforward
+verifi bit quantiti  yield origin quantiti twoscompl notat
+repres  overflow guarante ad back overflow bit cancel  leav
+origin number fact onescompl sum  bit
+summand  summand add coincid actual binari represent
+mean  checksum repres  checksum calcul
+udp protocol ipv effici reason ipv udp packet includ
+calcul checksum rfc  onescompl addit properti make numer calcul simpler
+find onescompl sum seri bit valu defer ad overflow bit
+end specif find onescompl sum valu ad ordinari
+twoscompl bit addit form onescompl sum upper lower
+bit halfword upper halfword repres accumul overflow exercis
+find onescompl sum seri bit valu concaten pairwis bit valu take bit onescompl sum previou paragraph
+form onescompl sum upper lower bit halfword
+surprisingli calcul bit onescompl sum seri byte
+time matter convert pair consecut byte integ bigendian
+littleendian byte order  binari data overflow loword byte ad highord
+byte virtu ordinari carri addit overflow highord byte ad
+loword byte onescompl rule exercis
+final bit onescompl sum fact remaind
+divid messag long binari number    provid replac remaind
+equival onescompl consist sixteen bit similar decim
+cast nine  rule add digit base number repeat process
+singl digit digit remaind divid origin number    analog
+messag look larg number written base  digit
+bit word process repeatedli ad  digit  singl  digit  amount
+take onescompl sum word remaind approach onescompl addit isn t
+practic provid analyz onescompl checksum mathemat
+weak errordetect code base sum transpos word lead sum
+error detect messag fragment fragment reassembl
+wrong order onescompl sum detect
+errordetect code detect kind systemat error
+crc internet checksum detect transposit error ultim
+effect errordetect code depend length suppos packet p corrupt
+randomli p origin nbit error code ecp nbit code fail detect
+error occur ecp chanc equal ecp probabl random nbit
+code match n small random chang p lead uniformli distribut
+random chang ecp tail end crc section
+packet n receiv incorrectli packet errorfre
+bit error code  packet  corrupt rate
+corrupt packet sneak
+packet
+byte good chanc  accur transfer terabyt  chanc e ten
+terabyt
